@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<textarea name="" id="" cols="30" rows="10" class="text"></textarea>
+<button class="btn">提交</button>
+</body>
+<script>
+    var txt=document.querySelector('.text');
+    var btn=document.querySelector('.btn');
+    txt.onkeyup=function(){
+        if(txt.value.length>6){
+            btn.disabled='disabled';
+            alert('数字不能大于60')
+        }
+    }
+</script>
+</html>
