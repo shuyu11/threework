@@ -1,0 +1,79 @@
+npm install jquery --save   全局 团队协作时对方可看到所用文件及版本  安装前端框架
+touch .gitignore    git过滤(忽略)文件
+
+npm -v 查看版本号
+
+
+脚手架
+npm i express-generator -g    全局安装脚手架
+express csy(创建csy文件夹及目录文件)
+创建目录文件csy
+
+
+在csy中打开命令窗口输入npm start 进行浏览或者打开浏览器localhost:3000
+卸载 npm uninstall express-generator -g
+卸载 npm uninstall jquery --save
+
+
+
+
+
+    -var a = 2;
+    -if(a==1)
+      h2 #{a}
+    -else
+      h2 nothing
+
+    -var b = [1,2,3,4];
+    -for(var i in b)
+      p #{b[i]}
+
+
+
+
+      setInterval(function(e){
+          console.log(e)
+      },1000,1)
+SPA   single page Application 
+优点：局部刷新
+缺点：第一次加载慢，会将JS 全部加载完
+
+
+var qwe={};
+    function a(){
+
+    }
+    a()
+    a.call()
+    call 改变了函数的作用域因此改变了this指向
+
+call与apply的区别
+AJAX
+http://v3.bootcss.com/javascript/
+http://v3.bootcss.com/getting-started/
+http://v3.bootcss.com/css/#button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

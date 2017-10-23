@@ -1,0 +1,111 @@
+body {
+  padding: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin:0;
+}
+.wrap{
+  width:100%;
+}
+.nav{
+  margin-top:10px;
+  height:30px;
+  text-align: right;
+}
+.nav a{
+  font-size:13px;
+  color: #333;
+  margin:0 10px;
+}
+.mnav{
+  font-weight: bold;
+}
+a.more{
+  background-color: #38f;
+  padding:4px;
+  text-decoration: none;
+  color:#fff;
+}
+a.na:hover {
+  color: #00c;
+}
+div.img{
+  width:100%;
+  height:129px;
+  margin-bottom:30px;
+  text-align: center;
+}
+div.img img{
+  width:270px;
+  height:129px;
+}
+.txt{
+  width:639px;
+  height:34px;
+  margin:0 auto;
+}
+input{
+  float:left;
+}
+input[type='text']{
+  width:536px;
+  height:32px;
+  text-indent:6px;
+  outline: none;
+  border:1px solid #b6b6b6
+}
+input[type='button']{
+  width:100px;
+  height:36px;
+  border:1px solid #3385ff;
+  font-size: 15px;
+  color:#fff;
+  background-color: #3385ff;
+}
+dl{
+  width:60px;
+  height:85px;
+  margin:180px auto 0;
+}
+dt,dt img{
+  width:60px;
+  height:60px;
+}
+dd{
+  width:60px;
+  height:25px;
+  line-height: 25px;
+  margin: 0;
+  font-weight: 700;
+}
+.foot{
+  width:630px;
+  height:60px;
+  line-height: 30px;
+  margin: 20px auto 0;
+  text-align: center;
+}
+.foot a{
+  display: inline-block;
+  margin:0 10px;
+  color:#999;
+  font-size: 13px;
+}
+.foot img{
+  vertical-align: top;
+  margin: -3px 0 0 -6px;
+}
+.pic{
+  width: 14px;
+  height: 17px;
+  padding-top:10px;
+  vertical-align: top;
+  margin:0;
+}
+
+
+
+
+
+
+
+
